@@ -23,12 +23,25 @@ ul {
     font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
     margin-right: auto;
     margin-left: auto;
-    width: 900px;
-    background-color: #CCCCCC;
+    width: 80%;
+    background-color: #F0F0F0;
     border-style: solid;
     border-width: thin;
     padding-left: 5px;
+    padding-right:5px;
 }
 #cvpict{
     float:right;
+}
+#contactpage {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+    background-color: aquamarine;
+    border-style: solid;
+    border-width: thin;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
 }
