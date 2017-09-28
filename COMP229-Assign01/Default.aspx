@@ -12,7 +12,7 @@
 	               Prior to moving to Canada, I have held the position of IT support specialist at Ascens Services, Abidjan - Ivory Coast.
 	               Currently I am a student in the third semester of the Software Engineering Technician program at Centennial College.
                 </p>
-                <p><a class="btn btn-primary btn-lg" href="About.aspx" role="button">Learn more</a></p>
+                <p><a class="btn btn-primary btn-lg" href="About.aspx" role="button">Find out more</a></p>
                 
             </div>
         </div>

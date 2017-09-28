@@ -93,6 +93,7 @@
     <Content Include="fonts\fontawesome-webfont.eot" />
     <None Include="Resources\sylvere-ekponon.jpg" />
     <None Include="Resources\Logo.png" />
+    <None Include="Resources\cvpict.png" />
     <Content Include="Scripts\app.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
